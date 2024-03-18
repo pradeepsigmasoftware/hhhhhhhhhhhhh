@@ -1,6 +1,7 @@
 ﻿using Hotel.Areas.Admin.DTO;
 using Hotel.Areas.Admin.Models.Services.Booking;
 using Hotel.Areas.Admin.Models.Services.Hotel;
+using Hotel.Areas.Unit.DTO;
 using Hotel.Controllers;
 using Hotel.data;
 using Hotel.Models.Common;
@@ -62,7 +63,7 @@ namespace Hotel.Areas.Admin.Controllers
 
 		public JsonResult BindHotelMaster(int id)
 		{
-			HotelDTO_Cls obj = new HotelDTO_Cls();
+			BindHotelDDLDto_cls obj = new BindHotelDDLDto_cls();
 			obj.Action = "4";
 			obj.CityId = id;
 			obj.dt = _hotelDTOService.HotelMasterData(obj);
@@ -71,6 +72,15 @@ namespace Hotel.Areas.Admin.Controllers
 			return Json(ddl);
 		}
 
+		public JsonResult BindHotelWithoutId()
+		{
+			BindHotelDDLDto_cls obj = new BindHotelDDLDto_cls();
+			obj.Action = "6";
+			obj.dt = _hotelDTOService.HotelMasterData(obj);
+			obj.HotelDDLLst = CommonFun.BindDDL(obj.dt);
+			var ddl = obj.HotelDDLLst;
+			return Json(ddl);
+		}
 		public JsonResult BindCategoryMaster(string id)
 		{
 			CategoryMaster_Cls obj = new CategoryMaster_Cls();
@@ -170,10 +180,10 @@ namespace Hotel.Areas.Admin.Controllers
 
 
 		#region CategoryMaster ---1-list, 2-insert, 3-GetByIdList, 4-Update
-		public async Task<IActionResult> CategoryMaster(int? Id)
+		public async Task<IActionResult> CategoryMaster(int? CID)
 		{
 			CategoryMaster_Cls obj = new CategoryMaster_Cls();
-			if (Id == null)
+			if (CID == null)
 			{
 				obj.Action = "1"; //list  CategoryMaster
 				obj.dt = _hotelDTOService.CategoryMasterService(obj);
@@ -181,7 +191,7 @@ namespace Hotel.Areas.Admin.Controllers
 			else
 			{
 				obj.Action = "3"; //GetById CategoryMaster
-				obj.Id = Id ?? 0;
+				obj.Id = CID ?? 0;
 				obj.dt = _hotelDTOService.CategoryMasterService(obj);
 				if (obj.dt != null && obj.dt.Rows.Count > 0)
 				{
@@ -247,6 +257,7 @@ namespace Hotel.Areas.Admin.Controllers
 		#endregion CategoryMaster
 
 
+		#region Room Deatils Insert Edit And Isactive 
 		public async Task<IActionResult> InsertRoomMaster()
 		{
 			BookingRoomDetails_Cls obj = new BookingRoomDetails_Cls();
@@ -255,16 +266,9 @@ namespace Hotel.Areas.Admin.Controllers
 				obj.Action = "1";
 				obj.dt = _hotelDTOService.BookingRoomDetailsService(obj);
 			}
-			else
-			{
-				obj.Action = "3";
-				obj.dt = _hotelDTOService.BookingRoomDetailsService(obj);
 
-			}
 			return View(obj);
 		}
-
-
 
 		public JsonResult InsertRoomMasterjson(BookingRoomDetails_Cls obj)
 		{
@@ -273,63 +277,119 @@ namespace Hotel.Areas.Admin.Controllers
 
 			try
 			{
+				DataTable dt1 = new DataTable();
 				if (obj.RoomId == 0)
 				{
-					//---------------------------------------------------------------------------------------------------------------------------------------------------------
-					//var tbldetails = obj.tbl_RoomDetail.Where(x => x.HotelId == obj.HotelId && x.CategoryId == obj.CategoryId).ToList();
-
-					//if (tbldetails.Count > 0)
-					//{
-					//	Mess[0] = "0";
-					//	Mess[1] = "This  Category Type Room Already Added !";
-					//	ViewBag.Message = msg;
-					//	ViewData["flag"] = flag;
-					//	return Json(Mess);
-					//}
-										
 					for (int i = 0; i < obj.RoomNo.Length; i++)
 					{
 						obj.Action = "2";
+						obj.strRoomNo = obj.RoomNo[i];
 						obj.dt = _hotelDTOService.BookingRoomDetailsService(obj);
-
 					}
-//------------------------------------------------------------------------------------------------------------------------------------------
 					if (obj.dt != null && obj.dt.Rows.Count > 0)
 					{
-						msg = Convert.ToString(obj.dt.Rows[0]["msg"]);
+						msg = "1";
 					}
 					else
 					{
-						msg = "Data not saved !!!";
+						msg = "0";
 					}
 				}
 
 				else
 				{
-					obj.Action = "4"; //update InsertRoomMaster
 					obj.RoomId = obj.RoomId;
-
-
-					obj.dt = _hotelDTOService.BookingRoomDetailsService(obj);
+					for (int i = 0; i < obj.RoomNo.Length; i++)
+					{
+						obj.Action = "4"; //update InsertRoomMaster
+						obj.strRoomNo = obj.RoomNo[i];
+						obj.dt = _hotelDTOService.BookingRoomDetailsService(obj);
+					}
 					if (obj.dt != null && obj.dt.Rows.Count > 0)
 					{
-						msg = Convert.ToString(obj.dt.Rows[0]["msg"]);
+						msg = "1";
 					}
 					else
 					{
-						msg = "Data not Updated !!!";
+						msg = "0";
 					}
 				}
 			}
 			catch (Exception ex)
 			{
-				msg = "Server Error !!!";
+				msg = "0";
 			}
 
 			TempData["flag"] = msg;
 
-			return Json("InsertRoomMaster");
+			return Json(msg);
 		}
+
+		public async Task<IActionResult> EditRoomMaster(string RID, int CID)
+		{
+			BookingRoomDetails_Cls obj = new BookingRoomDetails_Cls();
+			if (RID != null && CID != 0)
+			{
+				obj.Action = "3";
+				obj.HotelId = RID;
+				obj.CategoryId = CID;
+				obj.dt = _hotelDTOService.BookingRoomDetailsService(obj);
+			}
+
+			return View(obj);
+		}
+
+		[HttpPost]
+		public JsonResult IsActiveAndOffline(int roomId, string mode, bool status)
+		{
+			BookingRoomDetails_Cls obj = new BookingRoomDetails_Cls();
+			string msg = "";
+			try
+			{
+				if (mode == "1")
+				{
+					obj.Action = "4";
+					obj.RoomId = roomId;
+					obj.IsActive = status;
+					obj.dt = _hotelDTOService.BookingRoomDetailsService(obj);
+					if (obj.dt != null && obj.dt.Rows.Count > 0)
+					{
+						msg = "1";
+					}
+					else
+					{
+						msg = "0";
+					}
+				}
+				else
+				{
+					obj.Action = "5";
+					obj.RoomId = roomId;
+					obj.IsOffLine = status;
+					obj.dt = _hotelDTOService.BookingRoomDetailsService(obj);
+					if (obj.dt != null && obj.dt.Rows.Count > 0)
+					{
+						msg = "1";
+					}
+					else
+					{
+						msg = "0";
+					}
+				}
+
+			}
+			catch (Exception ex)
+			{
+				msg = "0";
+			}
+
+			TempData["flag"] = msg;
+
+
+			return Json(obj);
+		}
+
+		#endregion
 
 
 		#region GstMaster ---1-list, 2-insert, 3-GetByIdList, 4-Update
@@ -363,7 +423,7 @@ namespace Hotel.Areas.Admin.Controllers
 			string msg = "";
 			try
 			{
-				if (GstId == null)
+				if (GstId == 0)
 				{
 					obj.Action = "2"; //insert CategoryMaster
 					obj.dt = _hotelDTOService.GstMasterService(obj);
@@ -581,7 +641,7 @@ namespace Hotel.Areas.Admin.Controllers
 			string msg = "";
 			try
 			{
-				if (Id == null)
+				if (Id == 0)
 				{
 					obj.Action = "2";
 					obj.dt = _hotelDTOService.CityMasterService(obj);
@@ -622,8 +682,97 @@ namespace Hotel.Areas.Admin.Controllers
 		#endregion
 
 
+		#region  RateMaster ---1-list, 2-insert, 3-GetByIdList, 4-Update
+
+		public async Task<IActionResult> RateMaster(int? Id)
+		{
+			RateMaster_Cls obj = new RateMaster_Cls();
+			string msg = "";
+			try
+			{
+				
+				if (Id == null)
+				{
+					obj.Action = "1";
+					obj.dt = _hotelDTOService.RateMasterService(obj);
+					
+				}
+				else
+				{
+					obj.Action = "3";
+					obj.RateID = Id ?? 0;					
+					obj.dt = _hotelDTOService.RateMasterService(obj);
+					if(obj.dt !=null && obj.dt.Rows.Count > 0)
+					{
+						obj.HotelId = obj.dt.Rows[0]["HotelId"].ToString();
+						obj.CategoryId = Convert.ToInt32(obj.dt.Rows[0]["CategoryId"]);
+						obj.PricePerDay = Convert.ToDecimal(obj.dt.Rows[0]["PricePerDay"]);
+						obj.PriceDifference = Convert.ToDecimal(obj.dt.Rows[0]["PriceDifference"]);
+						obj.ExtraBedPercentage = Convert.ToDecimal(obj.dt.Rows[0]["ExtraBedPercentage"]);
+						obj.RateStartDate =obj.dt.Rows[0]["RateStartDate"].ToString();
+						obj.RateEndDate = obj.dt.Rows[0]["RateEndDate"].ToString();
+						//obj.IsActive = obj.dt.Rows[0]["IsActive"].ToString();
+						obj.EntryBy = obj.dt.Rows[0]["EntryBy"].ToString();
+						obj.EntryDate = obj.dt.Rows[0]["EntryDate"].ToString();
+					}
 
 
+				}
+			}
+			catch (Exception ex)
+			{
+				msg = "Server Error !!!";
+			}
+			return View(obj);
+		}
+
+		[HttpPost]
+		public async Task<IActionResult> RateMaster(RateMaster_Cls obj, int RateID)
+		{
+			string msg = "";
+			try
+			{
+				if (RateID == 0)
+				{
+					obj.Action = "2";
+					obj.EntryBy = CurrentUser.UserID.ToString();
+					obj.dt = _hotelDTOService.RateMasterService(obj);
+					if (obj.dt != null && obj.dt.Rows.Count > 0)
+					{
+						msg = Convert.ToString(obj.dt.Rows[0]["msg"]);
+					}
+					else
+					{
+						msg = "Data Not Saved !!!";
+					}
+				}
+				else
+				{
+					obj.Action = "4";
+					obj.RateID = RateID;
+					obj.EntryBy = CurrentUser.UserID.ToString();
+					obj.dt = _hotelDTOService.RateMasterService(obj);
+					if (obj.dt != null && obj.dt.Rows.Count > 0)
+					{
+						msg = Convert.ToString(obj.dt.Rows[0]["msg"]);
+					}
+					else
+					{
+						msg = "Data Not Saved !!!";
+					}
+				}
+			}
+			catch(Exception ex)
+			{
+				msg = "Server Error !!!";
+			}
+
+
+			return RedirectToAction("RateMaster");
+		}
+
+
+		#endregion
 
 		#region  ----Image Upload Function-----
 

@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Hotel
+build_property.RootNamespace = Hotel
+build_property.ProjectDir = F:\_Pradeep Chaurasiya\__Hotel\_Hotel_V02\Hotel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\_Pradeep Chaurasiya\__Hotel\_Hotel_V02\Hotel
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Booking/HotelBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9va2luZ1xIb3RlbEJvb2tpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/AddHotel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXEFkZEhvdGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/CategoryMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXENhdGVnb3J5TWFzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/CityMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXENpdHlNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/EditCategoryMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXEVkaXRDYXRlZ29yeU1hc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/EditRoomMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXEVkaXRSb29tTWFzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/GSTMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXEdTVE1hc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/HotelLoginDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXEhvdGVsTG9naW5EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/InsertRoomMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXEluc2VydFJvb21NYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/RateMaster.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXFJhdGVNYXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/UploadHotelImages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXFVwbG9hZEhvdGVsSW1hZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Master/UploadRoomImages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFzdGVyXFVwbG9hZFJvb21JbWFnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Unit/Views/Booking/HotelBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVW5pdFxWaWV3c1xCb29raW5nXEhvdGVsQm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Unit/Views/Dashboard/CheckInRoomDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVW5pdFxWaWV3c1xEYXNoYm9hcmRcQ2hlY2tJblJvb21EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Unit/Views/Dashboard/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVW5pdFxWaWV3c1xEYXNoYm9hcmRcSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Unit/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVW5pdFxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Unit/Views/ManageBooking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVW5pdFxWaWV3c1xNYW5hZ2VCb29raW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Unit/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVW5pdFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Areas/Unit/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVW5pdFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Views/Shared/Components/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/_Pradeep Chaurasiya/__Hotel/_Hotel_V02/Hotel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3yaibmce4x
