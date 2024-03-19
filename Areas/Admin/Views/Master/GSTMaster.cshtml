@@ -77,7 +77,7 @@
                     <div class="form-actions1">
                         <div class="text-center">
                             @Html.HiddenFor(a=>a.GSTID)
-                            <button class="btn btn-success btn-cons" type="submit"><i class="icon-ok"></i>Save</button>
+                            <button class="btn btn-success btn-cons" type="submit" onclick="return Validation()"><i class="icon-ok"></i>Save</button>
                             <a href="/Masters/ClearGSTModel" class="btn btn-danger btn-cons" id="lnkCancel"><i class="fa fa-times"></i>Cancel</a>
                         </div>
                     </div>
@@ -92,16 +92,6 @@
                 </div>
                 <div class="grid-body">
 
-                    <script src="/bootstrap-datatable/js/jquery.dataTables.min.js"></script>
-                    <script src="/bootstrap-datatable/js/buttons.bootstrap4.min.js"></script>
-                    <script src="/bootstrap-datatable/js/buttons.colVis.min.js"></script>
-                    <script src="/bootstrap-datatable/js/buttons.html5.min.js"></script>
-                    <script src="/bootstrap-datatable/js/buttons.print.min.js"></script>
-                    <script src="/bootstrap-datatable/js/dataTables.bootstrap4.min.js"></script>
-                    <script src="/bootstrap-datatable/js/dataTables.buttons.min.js"></script>
-                    <script src="/bootstrap-datatable/js/jszip.min.js"></script>
-                    <script src="/bootstrap-datatable/js/pdfmake.min.js"></script>
-                    <script src="/bootstrap-datatable/js/vfs_fonts.js"></script>
                     <script>
                         $(document).ready(function () {
                             $(".DataTableS").DataTable({
@@ -135,7 +125,6 @@
                                     <th  aria-label="End Amount: activate to sort column ascending">End Amount</th>
                                     <th  aria-label="GST Per: activate to sort column ascending">GST (%)</th>
                                     <th  aria-label="Edit: activate to sort column ascending">Edit</th>
-                                    <th  aria-label="Delete: activate to sort column ascending">Delete</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -143,24 +132,23 @@
                                     int srno = 1;
                                     if (Model.dt == null)
                                     {
-                                            <tr class="odd"><td valign="top" colspan="6" class="dataTables_empty">No data available in table</td></tr>
+                                                <tr class="odd"><td valign="top" colspan="6" class="dataTables_empty">No data available in table</td></tr>
                                     }
                                     else if (Model.dt != null && Model.dt.Rows.Count > 0)
                                     {
                                         foreach (DataRow dr in Model.dt.Rows)
                                         {
-                                                <tr class="odd">
-                                                    <td>@srno</td>
-                                                    <td>@dr["StartAmt"]</td>
-                                                    <td>@dr["EndAmt"]</td>
-                                                    <td>@dr["GSTPer"]</td>
-                                                    <td>
-                                                        <a href="/Admin/Master/GSTMaster?ID=@dr["GSTID"]" class="btn btn-primary btn-small" id="lnkEdit"><i class="fa fa-pencil"></i></a>
+                                                    <tr class="odd">
+                                                        <td>@srno</td>
+                                                        <td>@dr["StartAmt"]</td>
+                                                        <td>@dr["EndAmt"]</td>
+                                                        <td>@dr["GSTPer"]</td>
+                                                        <td>
+                                                            <a href="/Admin/Master/GSTMaster?ID=@dr["GSTID"]" class="btn btn-primary btn-small" id="lnkEdit"><i class="fa fa-pencil"></i></a>
 
-                                                    </td>
-                                                    <td> <a href="/Admin/Master/GSTMaster?ID=@dr["GSTID"]" class="btn btn-primary btn-small" id="lnkEdit"><i class="fa fa-pencil"></i></a></td>
+                                                        </td>
 
-                                                </tr>
+                                                    </tr>
                                             srno++;
                                         }
                                     }
@@ -180,5 +168,30 @@
         $('#StartAmt').val('@Model.StartAmt');
         $('#EndAmt').val('@Model.EndAmt');
         $('#GSTPer').val('@Model.GSTPer');
-    })
+    });
+
+    function Validation(){
+        var StartAmt = $('#StartAmt').val();
+        var EndAmt = $('#EndAmt').val();
+        var GSTPer = $('#GSTPer').val();
+
+        if (StartAmt == '') {
+            alert("Please Enter Start Amount");
+            $('#StartAmt').focus();
+            return false
+            }
+        if (EndAmt == '') {
+            alert("Please Enter End Amount");
+            $('#EndAmt').focus();
+            return false
+            }
+        if (GSTPer =='') {
+            alert("Please Enter GST(%)");
+            $('#GSTPer').focus();
+            return false
+        }
+    }
+
+
+
 </script>

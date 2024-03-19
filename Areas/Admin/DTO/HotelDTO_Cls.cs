@@ -66,8 +66,7 @@ namespace Hotel.Areas.Admin.DTO
         public string RedirectURL { get; set; }
         public string AccessToken { get; set; }
         public int Category { get; set; }
-        public int NoOfRooms { get; set; }
-		public List<SelectListItem> HotelDDLLst = new List<SelectListItem>();
+        public int NoOfRooms { get; set; }		
 		public DataTable dt { get; set; }
 
 		public int convertToInt(object Val)

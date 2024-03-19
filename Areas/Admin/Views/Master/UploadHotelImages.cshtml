@@ -57,12 +57,21 @@
 	}
 
 	function insertData() {
+		if ($("#ddlCity").val() == "") {
+			alert("Please Select City !!!");
+			$("#ddlCity").focus();
+			return;
+		}
 		if ($("#ddlHotel").val() == "") {
 			alert("Please Select Hotel !!!");
 			$("#ddlHotel").focus();
 			return;
 		}
-
+		if ($("#fuUpload").val() == "") {
+			alert("Please Select Image !!!");
+			$("#fuUpload").focus();
+			return;
+		}
 		var data = new FormData;
 		data.append("HotelId", $("#ddlHotel").val());
 		var files = $("#fuUpload").get(0).files;
@@ -169,7 +178,7 @@
 </script>
 
 <script>
-	$('#parapageheading').text('Room Image Gallary');
+	$('#parapageheading').text('Hotel Image Gallary');
 </script>
 
 <input type="hidden" id="hdCityId">

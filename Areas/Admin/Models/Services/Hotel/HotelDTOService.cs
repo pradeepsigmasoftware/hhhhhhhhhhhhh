@@ -41,7 +41,7 @@ namespace Hotel.Areas.Admin.Models.Services.Hotel
 		}
 
 
-		public DataTable HotelMasterData(HotelDTO_Cls request)
+		public DataTable HotelMasterData(BindHotelDDLDto_cls request)
 		{
 			DataTable dt = new DataTable();
 			SqlParameter[] param = new SqlParameter[]
@@ -66,6 +66,8 @@ namespace Hotel.Areas.Admin.Models.Services.Hotel
 			return dt;
 
 		}
+
+
 		public DataTable HotelMasterDTO(HotelDTO_Cls request)
 		{
 
@@ -157,13 +159,14 @@ namespace Hotel.Areas.Admin.Models.Services.Hotel
 		public DataTable BookingRoomDetailsService(BookingRoomDetails_Cls request)
 		{
 			DataTable dt = new DataTable();
+
 			SqlParameter[] param = new SqlParameter[]
 			{
 				new SqlParameter ("@Action",request.Action),
 				new SqlParameter ("@RoomId",request.RoomId),
-				new SqlParameter ("@RoomNo",request.RoomNo),
+				new SqlParameter ("@RoomNo",request.strRoomNo),
 				new SqlParameter ("@HotelId",request.HotelId),
-				new SqlParameter ("@CategoryId",request.CategoryId),			
+				new SqlParameter ("@CategoryId",request.CategoryId),
 				new SqlParameter ("@IsActive",request.IsActive),
 				new SqlParameter ("@IsOffLine",request.IsOffLine),
 				new SqlParameter ("@OffLineDate",request.OffLineDate),
@@ -171,6 +174,7 @@ namespace Hotel.Areas.Admin.Models.Services.Hotel
 				new SqlParameter ("@OLDateTo",request.OLDateTo),
 			};
 			dt = db.ExecProcDataTable("USP_BookingRoomDetails", param);
+
 			return dt;
 
 		}
@@ -203,5 +207,27 @@ namespace Hotel.Areas.Admin.Models.Services.Hotel
 			return dt;
 		}
 
+		public DataTable RateMasterService(RateMaster_Cls request)
+		{
+			DataTable dt = new DataTable();
+			SqlParameter[] param = new SqlParameter[]
+			{
+				new SqlParameter("@Action", request.Action),
+				new SqlParameter("@RateID", request.RateID),
+				new SqlParameter("@HotelId", request.HotelId),
+				new SqlParameter("@CategoryId", request.CategoryId),
+				new SqlParameter("@PricePerDay", request.PricePerDay),
+				new SqlParameter("@PriceDifference", request.PriceDifference),
+				new SqlParameter("@ExtraBedPercentage", request.ExtraBedPercentage),
+				new SqlParameter("@RateStartDate", request.RateStartDate),
+				new SqlParameter("@RateEndDate", request.RateEndDate),
+				new SqlParameter("@IsActive", request.IsActive),
+				new SqlParameter("@EntryBy", request.EntryBy),
+				new SqlParameter("@EntryDate", request.EntryDate),
+			};
+
+			dt = db.ExecProcDataTable("USP_RateMaster", param);
+			return dt;
+		}
 	}
 }

@@ -10,6 +10,7 @@ namespace Hotel.Areas.Admin.DTO
 		public DataTable dt { get; set; }		
 		public int RoomId { get; set; }
 		public string[] RoomNo { get; set; }
+		public string strRoomNo { get; set; }
 		public string HotelId { get; set; }
 		public int CategoryId { get; set; }
 		public bool IsActive { get; set; }

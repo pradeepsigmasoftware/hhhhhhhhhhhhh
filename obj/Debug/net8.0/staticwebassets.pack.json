@@ -1,0 +1,2673 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hotel.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\CommonJs\\HotelBooking.js",
+      "PackagePath": "staticwebassets\\CommonJs\\HotelBooking.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\CommonJs\\UnitHome.js",
+      "PackagePath": "staticwebassets\\CommonJs\\UnitHome.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\CommonJs\\dropdown.js",
+      "PackagePath": "staticwebassets\\CommonJs\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\19073e73-e961-40c2-8277-c2587decd40a_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\19073e73-e961-40c2-8277-c2587decd40a_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\1da640ca-b81e-475b-8c4a-03af6981404f_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\1da640ca-b81e-475b-8c4a-03af6981404f_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\2187332a-7e0a-427f-bd71-48087318b490_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\2187332a-7e0a-427f-bd71-48087318b490_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\28bde981-29ad-4c9d-a3ec-42e4a2e357b5_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\28bde981-29ad-4c9d-a3ec-42e4a2e357b5_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\2e742b90-360b-4143-bd7f-0248fb957b65_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\2e742b90-360b-4143-bd7f-0248fb957b65_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\302a2f52-ece4-4af3-8c48-1b93c5a6fe7b_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\302a2f52-ece4-4af3-8c48-1b93c5a6fe7b_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\3626db92-8f19-4ece-82c6-b8a1847fccb5_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\3626db92-8f19-4ece-82c6-b8a1847fccb5_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\3edcab1a-89f4-498c-8998-32b452572dea_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\3edcab1a-89f4-498c-8998-32b452572dea_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\4d683ad1-a2e8-4fee-bfa2-b41d911f9f14_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\4d683ad1-a2e8-4fee-bfa2-b41d911f9f14_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\5093c279-527c-4b71-adb0-4db54d53d3ae_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\5093c279-527c-4b71-adb0-4db54d53d3ae_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\6087e2dc-1276-4a80-b146-d72269d66eb0_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\6087e2dc-1276-4a80-b146-d72269d66eb0_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\68a126cc-d99b-4967-917c-5bdacdfc086a_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\68a126cc-d99b-4967-917c-5bdacdfc086a_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\69815ea0-bd09-419d-b422-f49a4eef13c8_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\69815ea0-bd09-419d-b422-f49a4eef13c8_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\70a89714-5da1-4b7d-87b7-2869e2c6ae79_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\70a89714-5da1-4b7d-87b7-2869e2c6ae79_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\7451eec9-31d6-4ca3-b0a2-abdc43a7bda6_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\7451eec9-31d6-4ca3-b0a2-abdc43a7bda6_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\7a666568-7d12-47a9-9dd2-dd28bf5f8946_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\7a666568-7d12-47a9-9dd2-dd28bf5f8946_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\843a7fbc-28c9-4a84-bc3b-17c5f879e273_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\843a7fbc-28c9-4a84-bc3b-17c5f879e273_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\8ea2c32e-b58b-4963-921e-c0099f9e6116_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\8ea2c32e-b58b-4963-921e-c0099f9e6116_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\9256420c-7cce-4c43-832d-53f30538dada_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\9256420c-7cce-4c43-832d-53f30538dada_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\9588f08a-d8d8-4068-988e-3bf941eb9e0c_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\9588f08a-d8d8-4068-988e-3bf941eb9e0c_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\9a0acbe3-f32c-4a3f-b401-b898fd1bd080_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\9a0acbe3-f32c-4a3f-b401-b898fd1bd080_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\9fbf842a-5509-404e-940a-634177e53aed_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\9fbf842a-5509-404e-940a-634177e53aed_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\a6a53cfb-7e78-451a-a7a3-54d285f8ff02_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\a6a53cfb-7e78-451a-a7a3-54d285f8ff02_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\b703e8da-c6ba-4b3b-acc4-f6191e310f3c_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\b703e8da-c6ba-4b3b-acc4-f6191e310f3c_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\b8de366a-2af1-46b8-9eb6-81b83314f603_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\b8de366a-2af1-46b8-9eb6-81b83314f603_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\bc8c1675-ee10-4c7e-b461-7de755f27df0_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\bc8c1675-ee10-4c7e-b461-7de755f27df0_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\bef8e91c-d852-4bdd-a25a-5f9099e3b8ef_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\bef8e91c-d852-4bdd-a25a-5f9099e3b8ef_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\cadbae81-1708-46d0-b640-87208b120c1f_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\cadbae81-1708-46d0-b640-87208b120c1f_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\d5f57c6c-5684-42ee-9d32-d48474e1ddcd_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\d5f57c6c-5684-42ee-9d32-d48474e1ddcd_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\dc909c3c-3b7f-4249-8368-ce927f17066f_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\dc909c3c-3b7f-4249-8368-ce927f17066f_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\eb6a1706-af71-46d9-99d8-8c56c8bc46c5_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\eb6a1706-af71-46d9-99d8-8c56c8bc46c5_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\fc577411-6ca1-41a2-94b8-bfd2dfa9e995_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\fc577411-6ca1-41a2-94b8-bfd2dfa9e995_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\HotelImages\\fc891a0e-5c7c-477c-89ca-6705ce4b39d8_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\HotelImages\\fc891a0e-5c7c-477c-89ca-6705ce4b39d8_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\02fdb10b-c252-4d13-a78b-74cda7b2586a_test.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\02fdb10b-c252-4d13-a78b-74cda7b2586a_test.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\0bff12ef-82a6-40a9-998a-0b6385adf4d7_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\0bff12ef-82a6-40a9-998a-0b6385adf4d7_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\0ee9833c-16c7-4873-98d6-a85c0c3289d5_test.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\0ee9833c-16c7-4873-98d6-a85c0c3289d5_test.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\1e85f180-4536-4061-a318-a5a5a47b6109_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\1e85f180-4536-4061-a318-a5a5a47b6109_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\3d83fabe-5b81-4578-99c9-fca8980390f3_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\3d83fabe-5b81-4578-99c9-fca8980390f3_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\407d8359-e190-4de6-9f5b-543889359ae8_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\407d8359-e190-4de6-9f5b-543889359ae8_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\4c3a8d35-b049-4a1b-976b-0169f6604a25_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\4c3a8d35-b049-4a1b-976b-0169f6604a25_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\59de5756-1b47-4618-a925-24ceabccd9c1_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\59de5756-1b47-4618-a925-24ceabccd9c1_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\66cb72a8-2061-46d0-8c55-4e48d8b0b45a_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\66cb72a8-2061-46d0-8c55-4e48d8b0b45a_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\6e979459-a795-4125-95fd-cf3d2ab71d2c_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\6e979459-a795-4125-95fd-cf3d2ab71d2c_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\78b28773-b2c8-4f73-a960-db9d6d0f9bad_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\78b28773-b2c8-4f73-a960-db9d6d0f9bad_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\7d502fa9-2dac-4ae1-8392-12ffac18ca73_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\7d502fa9-2dac-4ae1-8392-12ffac18ca73_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\9f0243d1-5c8a-4d4d-96d5-c8b5165f818b_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\9f0243d1-5c8a-4d4d-96d5-c8b5165f818b_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\aa213aa6-3033-45cb-b9b7-5174b82b0ca4_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\aa213aa6-3033-45cb-b9b7-5174b82b0ca4_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\ae7b889d-62a2-48fc-ade6-22f4e6c6ccbd_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\ae7b889d-62a2-48fc-ade6-22f4e6c6ccbd_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\b8598a0b-94ac-4516-bb42-b638269784d7_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\b8598a0b-94ac-4516-bb42-b638269784d7_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\d8f78460-24de-4a74-9544-f4feb3e34ca7_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\d8f78460-24de-4a74-9544-f4feb3e34ca7_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\e48a08f7-1a80-46d3-a49d-820f0b27a889_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\e48a08f7-1a80-46d3-a49d-820f0b27a889_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\f1c74c2b-bda9-46d0-8d69-56e5fb7937c1_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\f1c74c2b-bda9-46d0-8d69-56e5fb7937c1_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\IconImages\\faef9bc7-0cd7-4d44-aec8-793c735592ad_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\IconImages\\faef9bc7-0cd7-4d44-aec8-793c735592ad_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\087ff4fc-e463-46e0-b517-bf718efeef45_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\087ff4fc-e463-46e0-b517-bf718efeef45_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\0a777563-fc6a-4fa7-aa0c-70a1b31719f3_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\0a777563-fc6a-4fa7-aa0c-70a1b31719f3_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\0e554af9-5f0d-41b5-b031-0e257826caf1_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\0e554af9-5f0d-41b5-b031-0e257826caf1_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\133036dc-777d-4465-b1f1-00d24505b1e0_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\133036dc-777d-4465-b1f1-00d24505b1e0_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\1eb708b4-f7cc-45a5-94da-19489364c1d8_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\1eb708b4-f7cc-45a5-94da-19489364c1d8_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\2543ec5e-dc1d-4996-84c4-d5b54e98c5fc_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\2543ec5e-dc1d-4996-84c4-d5b54e98c5fc_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\254d1539-d827-429c-bda4-7e48f7006443_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\254d1539-d827-429c-bda4-7e48f7006443_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\37b98bbf-e2f0-4617-8bfa-784d0e06199c_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\37b98bbf-e2f0-4617-8bfa-784d0e06199c_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\3fc8d923-6742-4b60-89e5-4020b8eb1c6f_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\3fc8d923-6742-4b60-89e5-4020b8eb1c6f_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\5d153bab-29da-41a6-8672-48f1deff7877_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\5d153bab-29da-41a6-8672-48f1deff7877_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\903f31fb-550f-4554-add9-e2a4c7662bed_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\903f31fb-550f-4554-add9-e2a4c7662bed_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\918593c1-e194-4aea-88a4-2b1895615631_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\918593c1-e194-4aea-88a4-2b1895615631_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\9f689aed-81db-4227-8fa9-5ea4d5605734_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\9f689aed-81db-4227-8fa9-5ea4d5605734_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\a82cbdda-6cfa-49b1-b9f7-6be04692808d_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\a82cbdda-6cfa-49b1-b9f7-6be04692808d_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\b4d62e79-ee28-40eb-8deb-786570e0666f_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\b4d62e79-ee28-40eb-8deb-786570e0666f_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\df3d366f-af38-4961-8cae-acf95b4b0512_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\df3d366f-af38-4961-8cae-acf95b4b0512_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\Upload\\RoomImages\\e27bf952-37ce-4193-9929-fa1af24ba1f7_.jpg",
+      "PackagePath": "staticwebassets\\Upload\\RoomImages\\e27bf952-37ce-4193-9929-fa1af24ba1f7_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\Booking.css",
+      "PackagePath": "staticwebassets\\assets\\Booking.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\arrow.png",
+      "PackagePath": "staticwebassets\\assets\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\bootstrap-datatable\\js\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-datatable\\js\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\document.png",
+      "PackagePath": "staticwebassets\\assets\\document.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\earn-icon.png",
+      "PackagePath": "staticwebassets\\assets\\earn-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\faster-icon.png",
+      "PackagePath": "staticwebassets\\assets\\faster-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\hassle-free-icon.png",
+      "PackagePath": "staticwebassets\\assets\\hassle-free-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\SujawanDev.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\SujawanDev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\Sunder_kand.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Sunder_kand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\WeddingShoot.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WeddingShoot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\footer-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\offer-1-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\offer-1-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\slider-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\slider-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\slider-2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\slider-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\slider-3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\slider-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\tetsimonial-1-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\tetsimonial-1-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\tour-bg-1-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\tour-bg-1-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\tour-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\tour-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\why-choose-bg-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\why-choose-bg-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\why-choose-bg-1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\why-choose-bg-1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\why-choose-bg-1-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\why-choose-bg-1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\why-choose-bg-1-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\why-choose-bg-1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgrounds\\why-choose-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\why-choose-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgroung_1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgroung_1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\backgroung_2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgroung_2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\banner-new.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-new.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-1-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-1-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-1-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-1-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-1-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-1-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-2-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-2-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-3-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-3-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-comment-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-comment-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-comment-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-comment-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\blog-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\latest-post-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\latest-post-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\latest-post-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\latest-post-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\blog\\latest-post-1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\latest-post-1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\boat.png",
+      "PackagePath": "staticwebassets\\assets\\images\\boat.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-1-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-1-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-2-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-2-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-2-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-2-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-2-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-2-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-2-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-2-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-3-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-3-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-3-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-3-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-3-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-3-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-3-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-3-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-discount.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-discount.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-tour-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-tour-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-tour-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-tour-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\destination\\destination-tour-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\destination\\destination-tour-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\footer-logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\header.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\header_bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\monuments-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\monuments-img.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\package\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\package\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\about-1-shape-1-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\about-1-shape-1-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\about-1-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\about-1-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\about-1-shape-2-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\about-1-shape-2-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\about-1-shape-2-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\about-1-shape-2-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\about-1-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\about-1-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\about-1-shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\about-1-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\about-shape-4-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\about-shape-4-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\about-shape-4-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\about-shape-4-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\benefit-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\benefit-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\counter-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\counter-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\counter-bg-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\counter-bg-3.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\cta-1-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\cta-1-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\cta-1-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\cta-1-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\cta-1-shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\cta-1-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\cta-3-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\cta-3-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\cta-3-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\cta-3-3.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\cta-bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\cta-bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\error-shape-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\error-shape-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\feature-bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\feature-bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\offer-shape-1-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\offer-shape-1-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\offer-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\offer-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\offer-shape-2-rtl.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\offer-shape-2-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\offer-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\offer-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\slider-1-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\slider-1-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\slider-1-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\slider-1-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\slider-2-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\slider-2-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\slider-2-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\slider-2-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\slider-3-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\slider-3-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\tab-bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\tab-bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\testimonial-1-bg-2-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\testimonial-1-bg-2-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\testimonial-1-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\testimonial-1-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\tour-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\tour-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\shapes\\why-choose-3-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\why-choose-3-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\slider.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\tourism-map.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tourism-map.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\images\\up.png",
+      "PackagePath": "staticwebassets\\assets\\images\\up.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\Expand.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Expand.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\Webarch_thumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Webarch_thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\cover_pic.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cover_pic.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\download (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\download (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\download.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\invoicelogo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\invoicelogo.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\logo-b.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-b.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\acadia.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\acadia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\arches.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\arches.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\crater.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\crater.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\denali.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\denali.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\glacier.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\glacier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\grand.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\grand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\great.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\great.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\haleakala.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\haleakala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\yellowstone.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\yellowstone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\others\\zion.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\zion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\preload_waiting_1.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\preload_waiting_1.gif"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\UserIcon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\UserIcon.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\ad11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\ad11.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\admin-512.png",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\admin-512.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\avatar.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\avatar2x.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\avatar_small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar_small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\b.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\c.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\d.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\e.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\e2x.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\e2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\h.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\profiles\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\img\\work.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\work.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\invest-less-icon.png",
+      "PackagePath": "staticwebassets\\assets\\invest-less-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\join-us.png",
+      "PackagePath": "staticwebassets\\assets\\join-us.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\calender.js",
+      "PackagePath": "staticwebassets\\assets\\js\\calender.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\charts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\charts.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\chat.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\dashboard_v2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard_v2.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\datatables.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\email_comman.js",
+      "PackagePath": "staticwebassets\\assets\\js\\email_comman.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\form_elements.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form_elements.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\form_validations.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form_validations.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\google_maps.js",
+      "PackagePath": "staticwebassets\\assets\\js\\google_maps.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\group_list.js",
+      "PackagePath": "staticwebassets\\assets\\js\\group_list.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\icon.js",
+      "PackagePath": "staticwebassets\\assets\\js\\icon.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\notifications.js",
+      "PackagePath": "staticwebassets\\assets\\js\\notifications.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\search_results.js",
+      "PackagePath": "staticwebassets\\assets\\js\\search_results.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\support_ticket.js",
+      "PackagePath": "staticwebassets\\assets\\js\\support_ticket.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\trevlo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\trevlo.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\vector_maps.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vector_maps.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\offer.jpg",
+      "PackagePath": "staticwebassets\\assets\\offer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\offer1.jpg",
+      "PackagePath": "staticwebassets\\assets\\offer1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\opportunity-icon.png",
+      "PackagePath": "staticwebassets\\assets\\opportunity-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\js\\hammer.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\js\\hammer.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\js\\jquery.easing.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\js\\jquery.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\js\\jquery.mousewheel.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\js\\jquery.mousewheel.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\arrow-down.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\arrow-down.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\arrow-up.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\arrow-up.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\closedhand.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\cross.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\fullscreen-exit.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\fullscreen-exit.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\fullscreen.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\openhand.cur",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\openhand.cur"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-blue.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-blue.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-green.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-green.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-orange.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-orange.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-purple.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-purple.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-red.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\pin-red.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\target.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\target.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\tooltip-triangle.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\tooltip-triangle.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\images\\viewer.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\images\\viewer.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\mapplic.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\mapplic.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\Mapplic\\mapplic\\mapplic.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\Mapplic\\mapplic\\mapplic.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\boostrap-checkbox\\css\\bootstrap-checkbox.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\boostrap-checkbox\\css\\bootstrap-checkbox.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\boostrap-clockpicker\\bootstrap-clockpicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\boostrap-clockpicker\\bootstrap-clockpicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\boostrap-clockpicker\\bootstrap-clockpicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\boostrap-clockpicker\\bootstrap-clockpicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\boostrap-form-wizard\\js\\jquery.bootstrap.wizard.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\boostrap-form-wizard\\js\\jquery.bootstrap.wizard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\boostrap-slider\\css\\slider.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\boostrap-slider\\css\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\boostrap-slider\\js\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\boostrap-slider\\js\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\img\\alpha.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\img\\alpha.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\img\\hue.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\img\\hue.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\img\\saturation.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\img\\saturation.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-datepicker\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-datepicker\\css\\datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-datepicker\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-datepicker\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-select2\\select2-spinner.gif",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-select2\\select2-spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-select2\\select2.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-select2\\select2.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-select2\\select2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-tag\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-tag\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-tag\\bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-tag\\bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-timepicker\\css\\bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-timepicker\\css\\bootstrap-timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-wysihtml5\\bootstrap-wysihtml5.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-wysihtml5\\bootstrap-wysihtml5.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-wysihtml5\\bootstrap-wysihtml5.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-wysihtml5\\bootstrap-wysihtml5.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrap-wysihtml5\\wysihtml5-0.3.0.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-wysihtml5\\wysihtml5-0.3.0.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrapv3\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrapv3\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrapv3\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrapv3\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrapv3\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\bootstrapv3\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrapv3\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\datatables-responsive\\css\\datatables.responsive.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables-responsive\\css\\datatables.responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\datatables-responsive\\img\\minus.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables-responsive\\img\\minus.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\datatables-responsive\\img\\plus.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables-responsive\\img\\plus.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\datatables-responsive\\js\\datatables.responsive.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables-responsive\\js\\datatables.responsive.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\datatables-responsive\\js\\lodash.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables-responsive\\js\\lodash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\dropzone\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropzone\\css\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\dropzone\\images\\spritemap.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropzone\\images\\spritemap.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\dropzone\\images\\spritemap@2x.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\dropzone\\images\\spritemap@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.svg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.woff"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfont93e3.woff2"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\fullcalendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\gritter\\css\\jquery.gritter.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\gritter\\css\\jquery.gritter.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\gritter\\images\\gritter-light.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\gritter\\images\\gritter-light.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\gritter\\images\\gritter.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\gritter\\images\\gritter.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\gritter\\images\\ie-spacer.gif",
+      "PackagePath": "staticwebassets\\assets\\plugins\\gritter\\images\\ie-spacer.gif"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\ios-switch\\ios7-switch.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\ios-switch\\ios7-switch.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\ios-switch\\ios7-switch.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\ios-switch\\ios7-switch.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-autonumeric\\autoNumeric.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-autonumeric\\autoNumeric.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-block-ui\\jqueryblockui.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-block-ui\\jqueryblockui.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-block-ui\\jqueryblockui.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-block-ui\\jqueryblockui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-datatable\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-datatable\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-datatable\\extra\\js\\dataTables.tableTools.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-datatable\\extra\\js\\dataTables.tableTools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-datatable\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-datatable\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-datatable\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-datatable\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-easy-pie-chart\\js\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-easy-pie-chart\\js\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-flot\\jquery.flot.animator.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-flot\\jquery.flot.animator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-flot\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-flot\\jquery.flot.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-flot\\jquery.flot.orderBars.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-flot\\jquery.flot.orderBars.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-flot\\jquery.flot.selection.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-flot\\jquery.flot.selection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-flot\\jquery.flot.time.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-flot\\jquery.flot.time.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-gmap\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-inputmask\\jquery.inputmask.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-inputmask\\jquery.inputmask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-jvectormap\\css\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-jvectormap\\css\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-jvectormap\\js\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-jvectormap\\js\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-jvectormap\\js\\jquery-jvectormap-us-lcc-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-jvectormap\\js\\jquery-jvectormap-us-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-jvectormap\\js\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-jvectormap\\js\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-metrojs\\MetroJs.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-metrojs\\MetroJs.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-metrojs\\MetroJs.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-metrojs\\MetroJs.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-metrojs\\MetroJs.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-metrojs\\MetroJs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-metrojs\\images\\metroIcons.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-metrojs\\images\\metroIcons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-metrojs\\images\\metroIcons_light.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-metrojs\\images\\metroIcons_light.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-mixitup\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-mixitup\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-morris-chart\\css\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-morris-chart\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-morris-chart\\js\\morris.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-morris-chart\\js\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-nestable\\jquery.nestable.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-nestable\\jquery.nestable.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-notifications\\css\\location-sel.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-notifications\\css\\location-sel.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-notifications\\css\\messenger-theme-flat.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-notifications\\css\\messenger-theme-flat.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-notifications\\css\\messenger.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-notifications\\css\\messenger.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-notifications\\js\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-notifications\\js\\demo\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-notifications\\js\\demo\\location-sel.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-notifications\\js\\demo\\location-sel.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-notifications\\js\\demo\\theme-sel.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-notifications\\js\\demo\\theme-sel.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-notifications\\js\\messenger-theme-future.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-notifications\\js\\messenger-theme-future.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-notifications\\js\\messenger.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-notifications\\js\\messenger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-numberAnimate\\jquery.animateNumbers.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-numberAnimate\\jquery.animateNumbers.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-polymaps\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-polymaps\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-ricksaw-chart\\css\\rickshaw.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-ricksaw-chart\\css\\rickshaw.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-ricksaw-chart\\js\\d3.v2.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-ricksaw-chart\\js\\d3.v2.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-ricksaw-chart\\js\\raphael-min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-ricksaw-chart\\js\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-ricksaw-chart\\js\\rickshaw.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-ricksaw-chart\\js\\rickshaw.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-scrollbar\\jquery.scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-scrollbar\\jquery.scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-slider\\css\\jquery.sidr.light.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-slider\\css\\jquery.sidr.light.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-slider\\jquery.sidr.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-slider\\jquery.sidr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-sparkline\\jquery-sparkline.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-sparkline\\jquery-sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-full-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-full-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-21.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-22.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-23.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-24.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\img\\superbox\\superbox-thumb-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-superbox\\js\\superbox.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-superbox\\js\\superbox.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-ui-touch\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-ui-touch\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-ui\\jquery-ui-1.10.1.custom.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-ui\\jquery-ui-1.10.1.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-unveil\\jquery.unveil.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-unveil\\jquery.unveil.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery-validation\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-validation\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\jquery\\jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery\\jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\modernizr.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\owl-carousel\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owl-carousel\\AjaxLoader.gif"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\owl-carousel\\grabbing.png",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owl-carousel\\grabbing.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\owl-carousel\\owl.theme.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owl-carousel\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\pace\\pace-theme-flash.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\pace\\pace-theme-flash.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\pace\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\shape-hover\\css\\component.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\shape-hover\\css\\component.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\shape-hover\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\shape-hover\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsicons.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsicons.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsicons.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsiconsd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\shape-hover\\fonts\\codropsicons\\codropsiconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\shape-hover\\js\\snap.svg-min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\shape-hover\\js\\snap.svg-min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\plugins\\skycons\\skycons.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\skycons\\skycons.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\rail-bg-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\rail-bg-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\start.png",
+      "PackagePath": "staticwebassets\\assets\\start.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\countdown\\countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\countdown\\countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\daterangepicker-master\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\daterangepicker-master\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\daterangepicker-master\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\daterangepicker-master\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\daterangepicker-master\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\daterangepicker-master\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\imagesloaded\\imagesloaded.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\imagesloaded\\imagesloaded.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\isotope\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\isotope\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jarallax\\jarallax.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jarallax\\jarallax.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jarallax\\jarallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jarallax\\jarallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ajaxchimp\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ajaxchimp\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-appear\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-appear\\jquery.appear.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-circle-progress\\jquery.circle-progress.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-circle-progress\\jquery.circle-progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-circleType\\jquery.circleType.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-circleType\\jquery.circleType.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-lettering\\jquery.lettering.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-lettering\\jquery.lettering.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-magnific-popup\\jquery.magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-magnific-popup\\jquery.magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_75_dadada_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\jquery\\jquery-3.7.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.7.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\nouislider\\nouislider.pips.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nouislider\\nouislider.pips.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\owl-carousel\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\owl-carousel\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\owl-carousel\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\owl-carousel\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\simpleParallax\\simpleParallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\simpleParallax\\simpleParallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\tilt\\tilt.jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\tilt\\tilt.jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\tiny-slider\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\tiny-slider\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\tiny-slider\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\tiny-slider\\tiny-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-icons\\fonts\\icomoon9bc0.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-icons\\fonts\\icomoon9bc0.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-icons\\fonts\\icomoon9bc0.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-icons\\fonts\\icomoon9bc0.svg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-icons\\fonts\\icomoon9bc0.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-icons\\fonts\\icomoon9bc0.ttf"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-icons\\fonts\\icomoon9bc0.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-icons\\fonts\\icomoon9bc0.woff"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-icons\\style.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-icons\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-toolbar\\css\\trevlo-toolbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-toolbar\\css\\trevlo-toolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-toolbar\\js\\jQuery.style.switcher.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-toolbar\\js\\jQuery.style.switcher.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-toolbar\\js\\js.cookie.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-toolbar\\js\\js.cookie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-toolbar\\js\\lang.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-toolbar\\js\\lang.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\trevlo-toolbar\\js\\trevlo-toolbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\trevlo-toolbar\\js\\trevlo-toolbar.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\wnumb\\wNumb.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\wnumb\\wNumb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\vendors\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\05002019_HTL05955.jpg",
+      "PackagePath": "staticwebassets\\assets\\webarch\\05002019_HTL05955.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\webarch\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\@{base-img-url}\\icon\\portlet-tray.html",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\@{base-img-url}\\icon\\portlet-tray.html"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\flate.css",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\flate.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\img\\icon\\portlet-tray.html",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\img\\icon\\portlet-tray.html"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\img\\notification-alert.html",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\img\\notification-alert.html"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\quicknav-menu.css",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\quicknav-menu.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\themes\\@{base-img-url}\\icon\\portlet-tray.html",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\themes\\@{base-img-url}\\icon\\portlet-tray.html"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\themes\\webarch.coporate.css",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\themes\\webarch.coporate.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\themes\\webarch.elegant.css",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\themes\\webarch.elegant.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\themes\\webarch.simple.css",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\themes\\webarch.simple.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\webarch.css",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\webarch.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\css\\webarch.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\webarch\\css\\webarch.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\fonts\\custom-set.eot",
+      "PackagePath": "staticwebassets\\assets\\webarch\\fonts\\custom-set.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\fonts\\custom-set.svg",
+      "PackagePath": "staticwebassets\\assets\\webarch\\fonts\\custom-set.svg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\fonts\\custom-set.ttf",
+      "PackagePath": "staticwebassets\\assets\\webarch\\fonts\\custom-set.ttf"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\fonts\\custom-set.woff",
+      "PackagePath": "staticwebassets\\assets\\webarch\\fonts\\custom-set.woff"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\fonts\\custom-setd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\webarch\\fonts\\custom-setd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\noti-cross-2x.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\noti-cross-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\noti-cross.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\noti-cross.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\portlet-tray-2x.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\portlet-tray-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\portlet-tray.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\portlet-tray.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\status.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\status.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\status2x.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\status2x.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\top-tray-b.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\top-tray-b.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\top-tray-bx2.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\top-tray-bx2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\top-tray.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\top-tray.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\icon\\top-trayx2.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\icon\\top-trayx2.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\notification-alert.html",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\notification-alert.html"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\pullup.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\pullup.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\img\\pullup2x.png",
+      "PackagePath": "staticwebassets\\assets\\webarch\\img\\pullup2x.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\assets\\webarch\\js\\webarch.js",
+      "PackagePath": "staticwebassets\\assets\\webarch\\js\\webarch.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\css\\Booking.css",
+      "PackagePath": "staticwebassets\\css\\Booking.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\doc.txt",
+      "PackagePath": "staticwebassets\\doc.txt"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\test.jpg\\8fe62d25-ebe3-48ef-98dc-a66d99a17820_.jpg",
+      "PackagePath": "staticwebassets\\test.jpg\\8fe62d25-ebe3-48ef-98dc-a66d99a17820_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\test.jpg\\a8eec1f8-f545-4c2e-bf18-72ecccc25112_.jpg",
+      "PackagePath": "staticwebassets\\test.jpg\\a8eec1f8-f545-4c2e-bf18-72ecccc25112_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\t-datepicker.min.css",
+      "PackagePath": "staticwebassets\\theme\\css\\t-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-blue.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-bluegrey.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-bluegrey.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-cyan.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-cyan.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-green.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-green.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-lime.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-lime.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-main.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-main.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-orange.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-orange.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-purple.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-purple.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-teal.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-teal.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\css\\themes\\t-datepicker-yellow.css",
+      "PackagePath": "staticwebassets\\theme\\css\\themes\\t-datepicker-yellow.css"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\images\\about-t-datepicker.png",
+      "PackagePath": "staticwebassets\\theme\\images\\about-t-datepicker.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\theme\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\images\\logo.png",
+      "PackagePath": "staticwebassets\\theme\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\images\\social-t-datepicker.png",
+      "PackagePath": "staticwebassets\\theme\\images\\social-t-datepicker.png"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\js\\t-datepicker-v1.0.0.js",
+      "PackagePath": "staticwebassets\\theme\\js\\t-datepicker-v1.0.0.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\js\\t-datepicker.js",
+      "PackagePath": "staticwebassets\\theme\\js\\t-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\windows\\Desktop\\mk\\Hotel\\wwwroot\\theme\\js\\t-datepicker.min.js",
+      "PackagePath": "staticwebassets\\theme\\js\\t-datepicker.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hotel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hotel.props",
+      "PackagePath": "build\\Hotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hotel.props",
+      "PackagePath": "buildMultiTargeting\\Hotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hotel.props",
+      "PackagePath": "buildTransitive\\Hotel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

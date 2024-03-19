@@ -32,6 +32,12 @@
 
 		$('#btnSubmit').click(function () {
 
+			if ($("#ddlCity").val() == "") {
+				alert('Please select City');
+				$("#ddlCity").focus()
+				return false;
+			}
+
 			if ($("#ddlCategory").val() == "") {
 				alert('Please select Room Category');
 				$("#ddlCategory").focus()
@@ -41,12 +47,6 @@
 			if ($("#ddlHotel").val() == "") {
 				alert('Please select Hotel Name');
 				$("#ddlHotel").focus()
-				return false;
-			}
-
-			if ($("#ddlCity").val() == "") {
-				alert('Please select Room City');
-				$("#ddlCity").focus()
 				return false;
 			}
 
@@ -68,24 +68,28 @@
 			});
 
 
-
 			var RoomsNo = [];
 			$('#DynamitextboxRooms input').each(function () {
 				RoomsNo.push($(this).val());
 			});
 
 			var dataObject = {
-				Category: parseInt($("#ddlCategory").val()),
+				CategoryId: parseInt($("#ddlCategory").val()),
 				HotelId: $("#ddlHotel").val(),
 				City: parseInt($("#ddlCity").val()),
 				RoomNo: RoomsNo
 			};
 
 			$.post('/Admin/Master/InsertRoomMasterjson', dataObject, function (r) {
-
-
-
-			})
+				if (r == "1") {
+					alert("Data Saved Succesfully !!!");
+					location.reload();
+				}
+				else {
+					alert("Server is not Responding please try Later...");
+					return;
+				}
+			});
 
 
 
@@ -353,15 +357,11 @@
 						<thead>
 							<tr>
 								<th>Sr No.</th>
-								<th>City</th>
+								<th>City Name</th>
 								<th>Hotel Name</th>
-								<th>Category</th>
-								<th>Room No.</th>
-								<th style="width: 30%;">Description</th>
-								<th>Status</th>
-								<th>Entry Date</th>
-								<th>Edit</th>
-								<th>Delete</th>
+								<th>Hotel Category</th>
+								<th>No Of Rooms</th>
+
 							</tr>
 						</thead>
 						<tbody>
@@ -371,24 +371,13 @@
 								{
 									foreach (DataRow dr in Model.dt.Rows)
 									{
-											<tr role="row" class="even" style="text-align:center;">
-												<td class="sorting_1">@srno</td>
-												<td>@dr["CityName"]</td>
-												<td>@dr["HotelName"]</td>
-												<td>@dr["Category"]</td>
-												<td>@dr["RoomNo"]</td>
-												<td>@dr["Description"]</td>
-												<td>Available</td>
-												<td>@dr["EntryDate"]</td>
-												<td>
-													<a href="/Admin/Master/InsertRoomMaster?RID=110" class="btn btn-primary btn-small" id="lnkEdit"><i class="fa fa-pencil"></i></a>
-												</td>
-												<td>
-
-													<a href="/RoomMaster/DeleteRoomDetails?RID=HTL87951&amp;CatId=45" class="btn btn-danger btn-small" id="lnkDelete" onclick="return confirm('Are you sure to delete this ?')"><i class="fa fa-trash"></i></a>
-
-												</td>
-											</tr>
+										<tr role="row" class="even" style="text-align:center;">
+											<td class="sorting_1">@srno</td>
+											<td>@dr["CityName"]</td>
+											<td>@dr["HotelName"]</td>
+											<td>@dr["Category"]</td>
+											<td><a href="/Admin/Master/EditRoomMaster?RID=@dr["HotelId"]&&CID=@dr["Id"]" class="btn btn-primary btn-small" id="lnkEdit">@dr["NoOfRooms"]</a></td>
+										</tr>
 										srno++;
 									}
 

@@ -113,9 +113,9 @@
 							<div class="form-group" id="City">
 								<label class="form-label">City</label>
 								<select class="form-control" id="ddlCity" name="CityId">
-								<option value="-1">Select City</option>	
+									<option value="-1">Select City</option>
 								</select>
-								
+
 
 								<span class="field-validation-valid error" data-valmsg-for="CityId" data-valmsg-replace="true"></span>
 							</div>
@@ -185,7 +185,7 @@
 							<div class="form-group">
 								<div class="text-center">
 									@Html.HiddenFor(a => a.HotelId)
-									<button class="btn btn-success btn-cons" type="submit" id="btnSubmit"><i class="fa fa-check"></i>Save</button>
+									<button class="btn btn-success btn-cons" type="submit" id="btnSubmit" onclick="return Validation()"><i class="fa fa-check"></i>Save</button>
 									<a href="/Masters/ClearModel" class="btn btn-danger btn-cons" id="lnkCancel"><i class="fa fa-times"></i>Cancel</a>
 								</div>
 							</div>
@@ -244,28 +244,28 @@
 								{
 									foreach (DataRow item in Model.dt.Rows)
 									{
-											<tr>
-												<td>@srno</td>
-												<td>@item["HotelName"]</td>
-												<td>@item["HotalCodenew"]</td>
-												<td>@item["Address"]</td>
-												<td>@item["ContactNo"]</td>
-												<td>@item["Landline"]</td>
-												<td>@item["EmailId"]</td>
-												<td>@item["StateName"]</td>
-												<td>@item["CityName"]</td>
-												<td>@item["Description"]</td>
-												<td>
-													<img src="@item["ImageURL"]" height="70" width="70" asp-append-version="true" />
-												</td>
-												<td>
-													<a href="/admin/master/AddHotel?HID=@item["HotelId"]" class="btn btn-primary btn-small" id="lnkEdit"><i class="fa fa-pencil"></i>
-												</td>
-												<td>
-													<a href="/Masters/DeleteConfirmed?HID=HTL97314" class="btn btn-danger btn-small" id="lnkDelete" onclick="return confirm('Are you sure to delete this hotel?')"><i class="fa fa-trash"></i></a>
+									<tr>
+										<td>@srno</td>
+										<td>@item["HotelName"]</td>
+										<td>@item["HotalCodenew"]</td>
+										<td>@item["Address"]</td>
+										<td>@item["ContactNo"]</td>
+										<td>@item["Landline"]</td>
+										<td>@item["EmailId"]</td>
+										<td>@item["StateName"]</td>
+										<td>@item["CityName"]</td>
+										<td>@item["Description"]</td>
+										<td>
+											<img src="@item["ImageURL"]" height="70" width="70" asp-append-version="true" />
+										</td>
+										<td>
+											<a href="/admin/master/AddHotel?HID=@item["HotelId"]" class="btn btn-primary btn-small" id="lnkEdit"><i class="fa fa-pencil"></i>
+										</td>
+										<td>
+											<a href="/Masters/DeleteConfirmed?HID=HTL97314" class="btn btn-danger btn-small" id="lnkDelete" onclick="return confirm('Are you sure to delete this hotel?')"><i class="fa fa-trash"></i></a>
 
-												</td>
-											</tr>
+										</td>
+									</tr>
 										srno++;
 									}
 								}
@@ -282,6 +282,7 @@
 
 <script type="text/javascript">
 	var val = '@Model.HotelId';
+	debugger;
 	if (val != "") {
 		document.getElementById("DivNew").style.display = "block";
 		document.getElementById("DivView").style.display = "none";
@@ -305,7 +306,7 @@
 
 	});
 
-	$(document).ready(function () {						
+	$(document).ready(function () {
 		$('#HotelName').val('@Model.HotelName');
 		$('#HotalCodenew').val('@Model.HotalCodenew');
 		$('#ContactNo').val('@Model.ContactNo');
@@ -315,10 +316,6 @@
 
 		BindState();
 
-		//$('#fuUpload').val('@Model.ImageURL');
-		//$('#FullDescription').val('@Html.Raw(Model.Description)');
-
-		
 	});
 
 	function BindState() {
@@ -336,7 +333,7 @@
 		});
 	}
 
-	function BindCity() {		
+	function BindCity() {
 		$.post('/admin/master/BindCityData', { stateId: $("#ddlState").val() }, function (result) {
 			$("#ddlCity").empty();
 			$.each(result, function (i, data) {
@@ -348,6 +345,65 @@
 			}
 		});
 	}
+
+
+	function Validation() {
+		var HotelName = $('#HotelName').val();
+		var HotalCode = $('#HotalCodenew').val();
+		var ContactNo = $('#ContactNo').val();
+		var Address = $('#txtAddress').val();		
+		var emailId = $('#EmailId').val();
+		var ddlState = $('#ddlState').val();
+		var ddlCity = $('#ddlCity').val();
+		var fuUpload = $('#fuUpload').val();
+
+		if (HotelName == "") {
+			alert("Please Enter Hotel Name !!!");
+			$("#HotelName").focus();
+			return false
+		}
+		if (HotalCode == "") {
+			alert("Please Enter Hotel Code !!!");
+			$("#HotalCodenew").focus();
+			return false
+		}
+		if (ContactNo == "") {
+			alert("Please Enter Contact Number !!!");
+			$("#ContactNo").focus();
+			return false
+		}
+
+		if (emailId == "") {
+			alert("Please Enter Email Id !!!");
+			$("#EmailId").focus();
+			return false
+		}
+
+		if (Address == "") {
+			alert("Please Enter Full Address !!!");
+			$("#txtAddress").focus();
+			return false
+		}
+
+
+		if (ddlState == "") {
+			alert("Please Select State !!!");
+			$("#ddlState").focus();
+			return false
+		}
+		if (ddlCity == "") {
+			alert("Please Select City Name !!!");
+			$("#ddlCity").focus();
+			return false
+		}
+
+		if (fuUpload == "") {
+			alert("Please Select Image !!!");
+			$("#fuUpload").focus();
+			return false
+		}
+	}
+
 
 </script>
 

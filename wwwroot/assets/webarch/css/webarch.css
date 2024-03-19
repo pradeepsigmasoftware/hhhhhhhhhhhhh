@@ -4262,7 +4262,7 @@ textarea {
     font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-   /* .uneditable-input,
+/* .uneditable-input,
     textarea,
     input[type="text"],
     input[type="password"],
@@ -4375,7 +4375,7 @@ select {
     background-image: none !important;
     border: 1px solid #e5e5e5;
     outline: none;
-    min-height: 35px;
+    /* min-height: 35px; */
 }
 
     select.xsmall {

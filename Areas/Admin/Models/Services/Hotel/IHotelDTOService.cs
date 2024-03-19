@@ -25,8 +25,12 @@ namespace Hotel.Areas.Admin.Models.Services.Hotel
 
         DataTable CityMasterData(CityMaster_Cls request);
 
-        DataTable HotelMasterData(HotelDTO_Cls request);
+        DataTable HotelMasterData(BindHotelDDLDto_cls request);
 
         DataTable CategoryMasterData(CategoryMaster_Cls request);
+        DataTable RateMasterService(RateMaster_Cls request);
+
+
+
     }
 }

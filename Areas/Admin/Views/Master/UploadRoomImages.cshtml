@@ -25,14 +25,12 @@
 <script>
 	$(document).ready(function () {
 		$("#div3").hide();
-
 		// $("#example3").DataTable();
-		BindCityWithoutId('ddlCity');		
+		BindCityWithoutId('ddlCity');
 	});
 
 	function BindCategoryDLL() {
-		var id = $("#ddlHotel").val()
-		$.post('/admin/master/BindCategoryMaster', { ddlHotel: $("#ddlHotel").val(), id: id }, function (result) {
+		$.post('/admin/master/BindCategoryMaster', { id: $("#ddlHotel").val() }, function (result) {
 			$("#ddlCategory").empty();
 			$.each(result, function (i, data) {
 				$("#ddlCategory").append("<option value='" + data.value + "'> " + data.text + "</option>")
@@ -40,7 +38,6 @@
 		});
 	}
 
-	
 
 	function bindhotelImages() {
 
@@ -49,24 +46,18 @@
 			$("#ddlHotel").focus();
 			return;
 		}
-		BindCategoryDLL();
 
-		var id = $("#ddlHotel").val();
 		$('#div3').show();
 
+		$.get("/admin/Master/UploadRoomImages", { id: $("#ddlHotel").val() }, function (data1) {
+			debugger
+			var htmlNew = data1;
+			$('#div3').html($(htmlNew).find('#divDetails'));
 
-		$.ajax({
-			url: "/admin/Master/UploadRoomImages",
-			type: "get",
-			data: { id: $("#ddlHotel").val() },
-			datatype: "json",
-			success: function (data1) {
-				//  $('#div3').show();
-				var htmlNew = data1;
-				$('#div3').html($(htmlNew).find('#divDetails'));
-				// $("#showSpinner").hide();
-			}
+			BindCategoryDLL();
+
 		});
+
 	}
 
 	function insertData() {
@@ -80,6 +71,11 @@
 			$("#ddlCategory").focus();
 			return;
 		}
+		if ($('#fuUpload').val() == 0) {
+			alert("Please Select Image !!!");
+			$("#fuUpload").focus();
+			return;
+		}
 
 		var data = new FormData;
 		data.append("HotelId", $("#ddlHotel").val());
@@ -91,8 +87,10 @@
 			data.append("Image", files[i]);
 		}
 
+		var formData = new FormData();
+		formData.append('file', $('#fuUpload')[0].files[0]);
 
-		// $("#showSpinner").show();
+		$("#showSpinner").show();
 		$.ajax({
 			url: "/admin/Master/UploadRoomImages",
 			type: "POST",
@@ -102,7 +100,6 @@
 			success: function () {
 				alert("Images Succesfully Uploaded.");
 				bindhotelImages();
-				BindCategoryDLL();
 				$("#fuUpload").val('');
 				$("#showSpinner").hide();
 			}
@@ -122,26 +119,18 @@
 				hotalid: $("#ddlHotel").val(),
 				CategoryId: imgId
 			}
-
-			$.ajax({
-				url: "/admin/Master/DeleteRoomImages",
-				type: "POST",
-				dataType: 'json',
-				data: dataobject,
-				success: function (r) {
-					if (r == "1") {
-						alert("Images Succesfully Removed.");
-						bindhotelImages();
-					}
-					else {
-						alert("Server is not Responding please try Later...");
-						return;
-					}
-
-				},
-				error: function (XMLHttpRequest, textStatus, errorThrown) {
+			$('#showSpinner').show();
+			$.post("/admin/Master/DeleteRoomImages", dataobject, function (r) {
+				$('#showSpinner').hide();
+				if (r === "1") {
+					alert("Images Successfully Removed.");
+				} else {
+					alert("Server is not responding. Please try again later.");
+					return;
 				}
-			});
+			}, 'json')
+
+
 		}
 		return false;
 	}
@@ -150,36 +139,6 @@
 </script>
 
 <script language="javascript" type="text/javascript">
-	//window.onload = function () {
-	//    var fileUpload = document.getElementById("fuUpload");
-	//    fileUpload.onchange = function () {
-	//        if (typeof (FileReader) != "undefined") {
-	//            var dvPreview = document.getElementById("dvPreview");
-	//            dvPreview.innerHTML = "";
-	//            var regex = /^([a-zA-Z0-9\s_\\.\-:])+(.jpg|.jpeg|.gif|.png|.bmp)$/;
-	//            for (var i = 0; i < fileUpload.files.length; i++) {
-	//                var file = fileUpload.files[i];
-	//                if (regex.test(file.name.toLowerCase())) {
-	//                    var reader = new FileReader();
-	//                    reader.onload = function (e) {
-	//                        var img = document.createElement("IMG");
-	//                        img.height = "100";
-	//                        img.width = "100";
-	//                        img.src = e.target.result;
-	//                        dvPreview.appendChild(img);
-	//                    }
-	//                    reader.readAsDataURL(file);
-	//                } else {
-	//                    alert(file.name + " is not a valid image file.");
-	//                    dvPreview.innerHTML = "";
-	//                    return false;
-	//                }
-	//            }
-	//        } else {
-	//            alert("This browser does not support HTML5 FileReader.");
-	//        }
-	//    }
-	//};
 
 	function prv() {
 		var fileUpload = document.getElementById("fuUpload");
